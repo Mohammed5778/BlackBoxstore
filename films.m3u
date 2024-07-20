@@ -182,21 +182,6 @@ https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 #EXTINF:0 CUID="656" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" group-title="Weyyak VIP VPN AR",Weyyak Drama
 https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
-#EXTINF:0 CUID="661" tvg-name="ZEE AFLAM" group-title="BOLLYWOOD بوليود",ZEE AFLAM
-http://93.184.10.248/ZeeAflam/index.m3u8
-#EXTINF:0 CUID="662" tvg-name="ZEE ALWAN" group-title="BOLLYWOOD بوليود",ZEE ALWAN
-http://93.184.10.248/ZeeAlwan/index.m3u8
 #EXTINF:0 CUID="663" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="BOLLYWOOD بوليود",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:0 CUID="664" tvg-name="Hala London TV Production" tvg-logo="http://halalondon.com/images/Production2.png" group-title="BOLLYWOOD بوليود",Hala London TV Production
-https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
-#EXTINF:0 CUID="9357" tvg-name="zee alwan ᴴᴰ" tvg-logo="https://airmaxtv.online:443/images/0f6eaacf87417d9928170eae444e9671.png" group-title="BOLLYWOOD بوليود",zee alwan ᴴᴰ
-https://airmaxtv.online/ssiptv2029/ssiptv2022/557.m3u8
-#EXTINF:0 CUID="9358" tvg-name="zee aflam ᴴᴰ" tvg-logo="https://airmaxtv.online:443/images/a2647579d7ee6f07d416c22dfddbd600.png" group-title="BOLLYWOOD بوليود",zee aflam ᴴᴰ
-https://airmaxtv.online/ssiptv2029/ssiptv2022/558.m3u8
-#EXTINF:0 CUID="9359" tvg-name="b4u aflam ᴴᴰ" tvg-logo="https://airmaxtv.online:443/images/4c6001f0c0c3ce540520d8394d55324b.png" group-title="BOLLYWOOD بوليود",b4u aflam ᴴᴰ
-https://airmaxtv.online/ssiptv2029/ssiptv2022/559.m3u8
-#EXTINF:0 CUID="9360" tvg-name="b4u plus ᴴᴰ" tvg-logo="https://airmaxtv.online:443/images/c8f12d305a12602d56dcd0c13f8ca984.png" group-title="BOLLYWOOD بوليود",b4u plus ᴴᴰ
-https://airmaxtv.online/ssiptv2029/ssiptv2022/560.m3u8
-#EXTINF:0 CUID="9361" tvg-name="MIX hollywood ᴴᴰ" tvg-logo="https://airmaxtv.online:443/images/f2b9f984098b2367c1b2f7387a5c277d.png" group-title="BOLLYWOOD بوليود",MIX hollywood ᴴᴰ
-https://airmaxtv.online/ssiptv2029/ssiptv2022/561.m3u8
+
